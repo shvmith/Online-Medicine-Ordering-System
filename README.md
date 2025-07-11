@@ -90,10 +90,10 @@ This project is open-source under the MIT License.
 
 ---
 
-## ✉️ Contact
+## 📞 Contact
 For any queries, feel free to reach out:
-📧 [rosandeepasamith@gmail.com]
-🔗 [https://github.com/shvmith]
+- 📧 [rosandeepasamith@gmail.com]
+- 🔗 [https://github.com/shvmith]
 
 
 
